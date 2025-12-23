@@ -94,3 +94,6 @@ This project analyzes the probability of homeownership using large-scale U.S. ce
 
 ## 🛠 Tools & Technologies
 R, tidyverse, caret, pROC, statistical modeling, data visualization
+
+> ⚠️ Note: Due to file size and data usage restrictions, the raw ACS dataset is not included.
+> See `data/raw/DATA_INSTRUCTIONS.md` for reproducibility instructions.
